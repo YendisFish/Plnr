@@ -1,0 +1,2 @@
+/home/snib/Plnr/Desktop/plnr-linux/bin/Release/net6.0/linux-x64/publish/plnr-linux.pdb
+/home/snib/Plnr/Desktop/plnr-linux/bin/Release/net6.0/linux-x64/publish/plnr-linux

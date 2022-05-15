@@ -1,0 +1,17 @@
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/plnr-linux
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/plnr-linux.deps.json
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/plnr-linux.runtimeconfig.json
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/plnr-linux.dll
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/plnr-linux.pdb
+/home/snib/Plnr/Desktop/plnr-linux/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.csproj.AssemblyReference.cache
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.AssemblyInfoInputs.cache
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.AssemblyInfo.cs
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.csproj.CoreCompileInputs.cache
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.csproj.CopyComplete
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.dll
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/refint/plnr-linux.dll
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.pdb
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/plnr-linux.genruntimeconfig.cache
+/home/snib/Plnr/Desktop/plnr-linux/obj/Debug/net6.0/ref/plnr-linux.dll
