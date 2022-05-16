@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ACkl2E1l7QhA30PaQPaBa0xEpxaE2UkJ7/UfUnOuKcH5PrZgh+awLXRSkPSf5vqFZDRGgK36dUJZboo9C4R2g==",
+  "success": true,
+  "projectFilePath": "/home/snib/Plnr/Installer/Installer.csproj",
+  "expectedPackageFiles": [
+    "/home/snib/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.4/microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

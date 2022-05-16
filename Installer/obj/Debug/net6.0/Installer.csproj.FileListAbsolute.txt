@@ -1,0 +1,15 @@
+/home/snib/Plnr/Installer/bin/Debug/net6.0/Installer
+/home/snib/Plnr/Installer/bin/Debug/net6.0/Installer.deps.json
+/home/snib/Plnr/Installer/bin/Debug/net6.0/Installer.runtimeconfig.json
+/home/snib/Plnr/Installer/bin/Debug/net6.0/Installer.dll
+/home/snib/Plnr/Installer/bin/Debug/net6.0/Installer.pdb
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.csproj.AssemblyReference.cache
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.GeneratedMSBuildEditorConfig.editorconfig
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.AssemblyInfoInputs.cache
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.AssemblyInfo.cs
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.csproj.CoreCompileInputs.cache
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.dll
+/home/snib/Plnr/Installer/obj/Debug/net6.0/refint/Installer.dll
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.pdb
+/home/snib/Plnr/Installer/obj/Debug/net6.0/Installer.genruntimeconfig.cache
+/home/snib/Plnr/Installer/obj/Debug/net6.0/ref/Installer.dll
